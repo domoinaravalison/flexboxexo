@@ -1,0 +1,99 @@
+body {
+  background-color: #423d62;
+}
+
+.contenu {
+  width: 60%;
+  margin: auto;
+}
+
+.header {
+  background-color: #4f4a6e;
+  padding: 2%;
+  color: white;
+  justify-content: space-between;
+  display: flex;
+}
+
+.blocmenu {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu {
+  margin-right: 15%;
+}
+
+.contenubody {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2%;
+}
+
+.gauche {
+  display: flex;
+  flex-direction: column;
+  background-color: plum;
+  width: 32%;
+}
+
+.centre {
+  display: flex;
+  background-color: aquamarine;
+  flex-direction: column;
+  width: 32%;
+}
+
+.droite {
+  display: flex;
+  background-color: beige;
+  flex-direction: column;
+  width: 32%;
+}
+
+.menubox {
+  background-color: #4f4a6e;
+  margin-bottom: 2%;
+  color: white;
+}
+
+.divtitle {
+  background-color: #61b3b3;
+  padding: 2%;
+  text-align: center;
+  font-weight: bold;
+}
+
+.mess {
+  padding-left: 20%;
+  padding-right: 35%;
+}
+
+.messa {
+  padding-left: 20%;
+  padding-right: 26%;
+}
+
+.section {
+  margin: 15%;
+}
+
+.num {
+  background-color: #61b3b3;
+  padding: 2%;
+}
+
+.os {
+  background-color: #4f4a6e;
+  color: white;
+}
+
+.titleos {
+  padding: 2%;
+  text-align: center;
+  font-weight: bold;
+}
+
+.cercleimg {
+  width: 100%;
+}
